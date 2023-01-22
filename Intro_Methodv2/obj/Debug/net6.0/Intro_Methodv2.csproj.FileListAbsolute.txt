@@ -1,0 +1,15 @@
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/bin/Debug/net6.0/Intro_Methodv2
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/bin/Debug/net6.0/Intro_Methodv2.deps.json
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/bin/Debug/net6.0/Intro_Methodv2.runtimeconfig.json
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/bin/Debug/net6.0/Intro_Methodv2.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/bin/Debug/net6.0/Intro_Methodv2.pdb
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/obj/Debug/net6.0/Intro_Methodv2.csproj.AssemblyReference.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/obj/Debug/net6.0/Intro_Methodv2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/obj/Debug/net6.0/Intro_Methodv2.AssemblyInfoInputs.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/obj/Debug/net6.0/Intro_Methodv2.AssemblyInfo.cs
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/obj/Debug/net6.0/Intro_Methodv2.csproj.CoreCompileInputs.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/obj/Debug/net6.0/Intro_Methodv2.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/obj/Debug/net6.0/refint/Intro_Methodv2.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/obj/Debug/net6.0/Intro_Methodv2.pdb
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/obj/Debug/net6.0/Intro_Methodv2.genruntimeconfig.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Intro_Methodv2/obj/Debug/net6.0/ref/Intro_Methodv2.dll
