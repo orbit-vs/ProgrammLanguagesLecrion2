@@ -1,0 +1,15 @@
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/bin/Debug/net6.0/Array_Libraryv1
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/bin/Debug/net6.0/Array_Libraryv1.deps.json
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/bin/Debug/net6.0/Array_Libraryv1.runtimeconfig.json
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/bin/Debug/net6.0/Array_Libraryv1.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/bin/Debug/net6.0/Array_Libraryv1.pdb
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/obj/Debug/net6.0/Array_Libraryv1.csproj.AssemblyReference.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/obj/Debug/net6.0/Array_Libraryv1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/obj/Debug/net6.0/Array_Libraryv1.AssemblyInfoInputs.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/obj/Debug/net6.0/Array_Libraryv1.AssemblyInfo.cs
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/obj/Debug/net6.0/Array_Libraryv1.csproj.CoreCompileInputs.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/obj/Debug/net6.0/Array_Libraryv1.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/obj/Debug/net6.0/refint/Array_Libraryv1.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/obj/Debug/net6.0/Array_Libraryv1.pdb
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/obj/Debug/net6.0/Array_Libraryv1.genruntimeconfig.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesLection2/Array_Libraryv1/obj/Debug/net6.0/ref/Array_Libraryv1.dll
